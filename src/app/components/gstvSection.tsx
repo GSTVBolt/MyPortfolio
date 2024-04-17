@@ -40,7 +40,7 @@ export const GstvSection = () => {
                     </p>
                     <div className="flex">
                         <Link
-                            href='https://drive.google.com/uc?export=download&id=1lO_Ao2Z9Z_1_MYrCjnV_9qIiZODlacUl'>
+                            href='https://drive.google.com/uc?export=download&id=1wdbpGSW-dKpiCjTjj7V1JX5VVl393JiM'>
                                 
                             <ButtonSubmit >
                                 <Download className="animate-bounce mr-1.5" />
