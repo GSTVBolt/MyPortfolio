@@ -36,8 +36,7 @@ export const GstvSection = () => {
                         />
                     </h1>
                     <p className="text-slate-400 sm:text-lg mb-6 lg:text-xl dark:text-slate-500">
-                        /*&nbsp;
-                        Desenvolvedor Fullstack, amante de Tecnologia e fascinado por Design UX/UI, mergulho de cabeça na missão de transformar ideias em realidade. Sou movido pela paixão de aprender os conceitos por trás das coisas! &nbsp;*/
+                    {'/*'} Desenvolvedor Fullstack, amante de Tecnologia e fascinado por Design UX/UI, mergulho de cabeça na missão de transformar ideias em realidade. Sou movido pela paixão de aprender os conceitos por trás das coisas! {'*/'}
                     </p>
                     <div className="flex">
                         <Link

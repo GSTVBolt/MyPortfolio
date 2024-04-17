@@ -3,7 +3,6 @@ import { Navbar } from "./components/navbar"
 import { AboutSection } from "./components/aboutSection"
 import { ProjectsSection } from "./components/projectsSection"
 import Skill from "./components/skills"
-import { EmailSection } from "./components/emailSection"
 import { Footer } from "./components/footer"
 import { EmailJsSection } from "./components/emailjsSection"
 
