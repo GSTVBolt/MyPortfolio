@@ -19,6 +19,9 @@ import react from '../../../../public/img/react.svg'
 import reactNative from '../../../../public/img/react.svg'
 import asp from '../../../../public/img/asp.png'
 import sqlite from '../../../../public/img/sqlite.svg'
+import nodejs from '../../../../public/img/nodejs.svg'
+import photoshop from '../../../../public/img/photoshop.svg'
+import illustrator from '../../../../public/img/illustrator.svg'
 
 export const dataSkills = [
   {
@@ -43,76 +46,91 @@ export const dataSkills = [
   },
   {
     id: 5,
+    skill: 'NodeJS',
+    img: nodejs,
+  },
+  {
+    id: 6,
     skill: 'Prisma',
     img: prisma,
   },
   {
-    id: 6,
+    id: 7,
     skill: 'Fastify',
     img: fastify,
   },
   {
-    id: 7,
+    id: 8,
     skill: 'Tailwind',
     img: tailwind,
   },
   {
-    id: 8,
+    id: 9,
     skill: 'Next.JS',
     img: nextjs,
   },
   {
-    id: 9,
+    id: 10,
     skill: 'SQL-Server',
     img: sqlserver,
   },
   {
-    id: 10,
+    id: 11,
     skill: 'MongoDB',
     img: mongodb,
   },
   {
-    id: 11,
+    id: 12,
     skill: 'SQLite',
     img: sqlite,
   },
   {
-    id: 12,
+    id: 13,
     skill: 'Csharp',
     img: csharp,
   },
   {
-    id: 13,
+    id: 14,
     skill: 'DotNet',
     img: dotnet,
   },
   {
-    id: 14,
+    id: 15,
     skill: 'ASP.NET',
     img: asp,
   },
   {
-    id: 15,
+    id: 16,
     skill: 'Bootstrap',
     img: bootstrap,
   },
   {
-    id: 16,
+    id: 17,
     skill: 'JQuery',
     img: jquery,
   },
   {
-    id: 17,
+    id: 18,
+    skill: 'Photoshop',
+    img: photoshop,
+  },
+  {
+    id: 19,
+    skill: 'Illustrator',
+    img: illustrator,
+  },
+  {
+    id: 20,
     skill: 'Figma',
     img: figma,
   },
   {
-    id: 18,
+    id: 21,
     skill: 'React',
     img: react,
   },
   {
-    id: 19,
+    id: 22,
     skill: 'React-Native',
     img: reactNative,
   },
