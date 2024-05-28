@@ -101,36 +101,26 @@ export const dataSkills = [
   },
   {
     id: 16,
-    skill: 'Bootstrap',
-    img: bootstrap,
-  },
-  {
-    id: 17,
-    skill: 'JQuery',
-    img: jquery,
-  },
-  {
-    id: 18,
     skill: 'Photoshop',
     img: photoshop,
   },
   {
-    id: 19,
+    id: 17,
     skill: 'Illustrator',
     img: illustrator,
   },
   {
-    id: 20,
+    id: 18,
     skill: 'Figma',
     img: figma,
   },
   {
-    id: 21,
+    id: 19,
     skill: 'React',
     img: react,
   },
   {
-    id: 22,
+    id: 20,
     skill: 'React-Native',
     img: reactNative,
   },
