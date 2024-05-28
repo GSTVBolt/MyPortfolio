@@ -36,7 +36,7 @@ export const GstvSection = () => {
                         />
                     </h1>
                     <p className="text-slate-400 sm:text-lg mb-6 lg:text-xl dark:text-slate-500">
-                    {'/*'} Desenvolvedor Fullstack, amante de Tecnologia e fascinado por Design UX/UI, mergulho de cabeça na missão de transformar ideias em realidade. Sou movido pela paixão de aprender os conceitos por trás das coisas! {'*/'}
+                    {'/*'} Sou um Desenvolvedor Fullstack apaixonado por tecnologia, com uma sede insaciável por aprender os conceitos por trás de cada solução. Minha paixão pelo Design me impulsiona a criar interfaces e experiências visuais que sejam intuitivas e agradáveis. Transformo ideias em realidade com entusiasmo e dedicação, buscando sempre a excelência em tudo o que faço. {'*/'}
                     </p>
                     <div className="flex">
                         <Link
